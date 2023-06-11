@@ -18,7 +18,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
   
- #### ![ML1 Classification Report](../Resources/ML_Model_1.jpg) 
+ #### ![ML1 Classification Report](https://github.com/LUTOV001/12.ML_Credit_Risk/blob/main/Resources/ML_Model_1.jpg)) 
 
 
 #### 1. Healthy Loan (Class 0): Precision and f1 are both 100% and recall is almost as good (99%). While the spe at 91% indicates good performance identifying 'positives' (e.g. correctly predicting 0s as such) there could be improvements in identifying 'false positives', which could be accomplished by increasing the training data rate (we used the default 75% for this model) and/or changing the evaluation model (Logistic Regression was used).
