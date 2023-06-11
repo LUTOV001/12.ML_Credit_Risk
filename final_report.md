@@ -28,7 +28,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
   
-#### ![ML2 Classification Report](https://github.com/LUTOV001/12.ML_Credit_Risk/blob/main/Resources/ML_Model_2.jpg) 
+#### ![ML2 Classification Report](https://github.com/LUTOV001/12.ML_Credit_Risk/blob/main/Resources/ML_Model%20_2.jpg) 
 
 #### 1. Healthy Loan (Class 0): Precision and f1 remained at 100% and recall also remained at 99% after the re-sampling excercise.Looking at the Confusion Matrix, there continued to be a high percentage of True Negatives and a low percentage of False Negatives, so the re-sampling did not impact the great rates we had for Class 0.
 #### 2. High Risk Loan (Class 1): While precision fell 1 point to 84%, f1 improved 3 points to 91% and recall jumped 14 points to 99%. Additionally, looking at the confusion matrix, the 'True positive' rate remained high, improving from 563 to 615 (9% improvemnt) and there was an even better improvement on 'false negatives', declining from 56 to 4 (92% reduction). This overall proves that the resampling exercise improved the model significantly, more noticeably for Class 1.
